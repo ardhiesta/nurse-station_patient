@@ -26,7 +26,7 @@
         android:id="@+id/makan"
         android:layout_width="106dp"
         android:layout_height="55dp"
-        android:text="Makan"
+        android:text="Makan "
         tools:layout_editor_absoluteX="21dp"
         tools:layout_editor_absoluteY="111dp" />
 
