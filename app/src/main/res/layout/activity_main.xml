@@ -10,7 +10,9 @@
         android:id="@+id/bed"
         android:layout_width="106dp"
         android:layout_height="55dp"
+        android:background="#c1cdc2"
         android:text="Bed"
+        android:textColor="@android:color/white"
         tools:layout_editor_absoluteX="273dp"
         tools:layout_editor_absoluteY="111dp" />
 
@@ -18,7 +20,9 @@
         android:id="@+id/buang_air"
         android:layout_width="106dp"
         android:layout_height="55dp"
+        android:background="#c1cdc1"
         android:text="Buang Air"
+        android:textColor="@android:color/background_light"
         tools:layout_editor_absoluteX="21dp"
         tools:layout_editor_absoluteY="31dp" />
 
@@ -26,7 +30,9 @@
         android:id="@+id/makan"
         android:layout_width="106dp"
         android:layout_height="55dp"
-        android:text="Makan "
+        android:background="#c1cdc2"
+        android:text="Makan"
+        android:textColor="@android:color/white"
         tools:layout_editor_absoluteX="21dp"
         tools:layout_editor_absoluteY="111dp" />
 
@@ -34,7 +40,9 @@
         android:id="@+id/pop_up"
         android:layout_width="106dp"
         android:layout_height="55dp"
+        android:background="#c1cdc1"
         android:text=" Pop Up Message"
+        android:textColor="@android:color/white"
         tools:layout_editor_absoluteX="273dp"
         tools:layout_editor_absoluteY="31dp" />
 
@@ -42,7 +50,9 @@
         android:id="@+id/obat"
         android:layout_width="106dp"
         android:layout_height="55dp"
+        android:background="#c1cdc2"
         android:text="Obat"
+        android:textColor="@android:color/white"
         tools:layout_editor_absoluteX="143dp"
         tools:layout_editor_absoluteY="111dp" />
 
@@ -50,7 +60,9 @@
         android:id="@+id/education"
         android:layout_width="106dp"
         android:layout_height="55dp"
+        android:background="#c1cdc1"
         android:text="Education"
+        android:textColor="@android:color/white"
         tools:layout_editor_absoluteX="143dp"
         tools:layout_editor_absoluteY="31dp" />
 
@@ -58,7 +70,9 @@
         android:id="@+id/talk"
         android:layout_width="106dp"
         android:layout_height="55dp"
-        android:text="Talk / Chat"
+        android:background="#c1cdc3"
+        android:text="Talk /        Chat"
+        android:textColor="@android:color/white"
         tools:layout_editor_absoluteX="21dp"
         tools:layout_editor_absoluteY="191dp" />
 
@@ -66,7 +80,9 @@
         android:id="@+id/patien"
         android:layout_width="106dp"
         android:layout_height="55dp"
+        android:background="#c1cdc3"
         android:text="Patien Info"
+        android:textColor="@android:color/white"
         tools:layout_editor_absoluteX="143dp"
         tools:layout_editor_absoluteY="191dp" />
 
@@ -74,7 +90,9 @@
         android:id="@+id/infus"
         android:layout_width="106dp"
         android:layout_height="55dp"
+        android:background="#c1cdc3"
         android:text="Infus"
+        android:textColor="@android:color/white"
         tools:layout_editor_absoluteX="273dp"
         tools:layout_editor_absoluteY="191dp" />
 
