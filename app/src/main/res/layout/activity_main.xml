@@ -7,60 +7,75 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button6"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
+        android:id="@+id/bed"
+        android:layout_width="106dp"
+        android:layout_height="55dp"
+        android:text="Bed"
         tools:layout_editor_absoluteX="273dp"
         tools:layout_editor_absoluteY="111dp" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
+        android:id="@+id/buang_air"
+        android:layout_width="106dp"
+        android:layout_height="55dp"
+        android:text="Buang Air"
         tools:layout_editor_absoluteX="21dp"
         tools:layout_editor_absoluteY="31dp" />
 
     <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Patient"
+        android:id="@+id/makan"
+        android:layout_width="106dp"
+        android:layout_height="55dp"
+        android:text="Makan"
         tools:layout_editor_absoluteX="21dp"
         tools:layout_editor_absoluteY="111dp" />
 
     <Button
-        android:id="@+id/button3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
+        android:id="@+id/pop_up"
+        android:layout_width="106dp"
+        android:layout_height="55dp"
+        android:text=" Pop Up Message"
         tools:layout_editor_absoluteX="273dp"
         tools:layout_editor_absoluteY="31dp" />
 
     <Button
-        android:id="@+id/button4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
+        android:id="@+id/obat"
+        android:layout_width="106dp"
+        android:layout_height="55dp"
+        android:text="Obat"
         tools:layout_editor_absoluteX="143dp"
         tools:layout_editor_absoluteY="111dp" />
 
     <Button
-        android:id="@+id/button5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
+        android:id="@+id/education"
+        android:layout_width="106dp"
+        android:layout_height="55dp"
+        android:text="Education"
         tools:layout_editor_absoluteX="143dp"
         tools:layout_editor_absoluteY="31dp" />
+
+    <Button
+        android:id="@+id/talk"
+        android:layout_width="106dp"
+        android:layout_height="55dp"
+        android:text="Talk / Chat"
+        tools:layout_editor_absoluteX="21dp"
+        tools:layout_editor_absoluteY="191dp" />
+
+    <Button
+        android:id="@+id/patien"
+        android:layout_width="106dp"
+        android:layout_height="55dp"
+        android:text="Patien Info"
+        tools:layout_editor_absoluteX="143dp"
+        tools:layout_editor_absoluteY="191dp" />
+
+    <Button
+        android:id="@+id/infus"
+        android:layout_width="106dp"
+        android:layout_height="55dp"
+        android:text="Infus"
+        tools:layout_editor_absoluteX="273dp"
+        tools:layout_editor_absoluteY="191dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
