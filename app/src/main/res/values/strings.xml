@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Nurse Station (Patient)</string>
+    <string name="buang_air">Buang Air</string>
+    <string name="makan">Makan</string>
+    <string name="obat">Obat</string>
+    <string name="talk_chat">Talk/Chat</string>
+    <string name="patient_info">Patient Info</string>
+    <string name="infus">Infus</string>
+    <string name="pop_up_message">Pop Up Message</string>
+    <string name="bed">Bed</string>
+    <string name="education">Education</string>
+    <string name="bed">Bed</string>
+    <string name="infus">Infus</string>
 </resources>
